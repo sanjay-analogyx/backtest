@@ -1,0 +1,15 @@
+mpire
+pandas
+numpy
+tqdm
+matplotlib
+scikit-learn
+boto3
+pyarrow
+catboost
+lightgbm
+xgboost
+numba
+scipy
+py_vollib
+ta
